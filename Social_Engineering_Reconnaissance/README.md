@@ -7,10 +7,9 @@
 Created a Python utility to automate targeted reconnaissance by generating all possible permutations of OSINT-extracted keywords to identify compromised credentials within a large dataset.
 
 ## 📂 Project Structure:
-* `script.py`: Main program that handles dataset loading, keyword processing, permutation generation and hash verification.
+* `script.py`: This handles all main functions including dataset loading, keyword processing, permutation generation and hash verification.
 * `email_md5_dataset.txt`: Dataset containing email and MD5 hash pairs used for credential matching.
-* `keywords.txt`: OSINT-style keywords used to generate potential password combinations.
-* `*.cnf`: Configuration files defining certificate or security-related parameters if included.
+* `keywords.txt`: OSINT keywords used to generate potential password combinations.
 
 ## ⚡ How to Run
 1. Clone the repo.
