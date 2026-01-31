@@ -1,3 +1,16 @@
+# Public Key Infrastructure Implementation
+
+### 🛠️ Key Skills Demonstrated
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![PKI](https://img.shields.io/badge/Public_Key_Infrastructure-blueviolet?style=for-the-badge)
+![Security](https://img.shields.io/badge/X.509_Certificates-red?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/RSA_2048-orange?style=for-the-badge)
+![Networking](https://img.shields.io/badge/TLS-success?style=for-the-badge)
+
+## 📖 Description:
+Implemented a 3-tier Certificate Authority (CA) chain using OpenSSL, configuring a self-signed Root CA to sign Intermediate and End Entity
+certificates for secure enterprise identity management.
+
 I created a 3 level certificate chain using the below OpenSSL commands. It consisted of the Root CA – Golden Retriever Security, Intermediate CA – Corgi Certification Authority and the End Certificate – Shiba Inu Retail.
 
 These are the commands I ran:
