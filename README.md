@@ -24,6 +24,23 @@ A multi-threaded network scanner coded in Python. It scans for open ports, finds
 ![Security](https://img.shields.io/badge/CVE_Analysis-red?style=for-the-badge)
 ![Network](https://img.shields.io/badge/TCP%2FIP-success?style=for-the-badge)
 
+### [Social Engineering Reconnaissance Tool](./Social_Engineering_Reconnaissance)
+Created a Python utility to automate targeted reconnaissance by generating all possible permutations of OSINT-extracted keywords to identify compromised credentials within a large dataset.
+
+**Key Skills:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### [Public Key Infrastructure Implementation](./Public_Key_Infrastructure_Implementation)
+Implemented a 3-tier Certificate Authority (CA) chain using OpenSSL, configuring a self-signed Root CA to sign Intermediate and End Entity
+certificates for secure enterprise identity management.
+
+**Key Skills:**
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![PKI](https://img.shields.io/badge/Public_Key_Infrastructure-blueviolet?style=for-the-badge)
+![Security](https://img.shields.io/badge/X.509_Certificates-red?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/RSA_2048-orange?style=for-the-badge)
+![Networking](https://img.shields.io/badge/TLS-success?style=for-the-badge)
+
 > 💡 *Click the project title above to view the source code and full documentation.*
 
 ## 🔗 Connect With Me
