@@ -3,7 +3,7 @@
 ## 🚀 About Me
 **Learning should be loud.**
 
-To be honest, listening to lecturers for hours on end never really worked for me. Nothing stuck. It was only when I started translating those technical notes into my own words that things made sense.
+Listening to lecturers for hours on end didn't really work for me. Nothing stuck. It was only when I started translating those technical notes into my own words that things made sense.
 
 I realised I wasn't the only one struggling with confusing topics, so I decided to document the journey online. **By my 4th video, I hit 20k views in a single day.** Turning super hard concepts into short videos wasn't just helping me master them; it was helping people around the world.
 
@@ -11,7 +11,7 @@ I realised I wasn't the only one struggling with confusing topics, so I decided 
 
 I believe Cybersecurity is a **human problem**, not just a computer one. I am fascinated by the psychology of security and love how this field changes every day. Solving the puzzle requires understanding people just as much as understanding the technicalities.
 
-🚀 **I am currently looking for a Cybersecurity Internship where I can put this curiosity to work!**
+🚀 **I am currently looking for a Cybersecurity Graduate Role where I can put this curiosity to work!**
 
 ## 📂 Featured Projects
 ### [Network Vulnerability Scanner](./Network_Vulnerability_Scanner)
